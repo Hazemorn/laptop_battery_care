@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #ls /sys/class/power_supply
-echo -e "Before using script v.1 run follow command:\n     ls /sys/class/power_supply \n\nfind out your battery number and correct main command"
+echo -e "Before using script v.1 run follow command:\n     ls /sys/class/power_supply \n\nfind out your battery number and correct main command \n/BAT?/"
 echo "Contunie? (y/n)"
 read answer
 case $answer in
